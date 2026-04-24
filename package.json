@@ -1,0 +1,14 @@
+{
+  "name": "node-cicd-app",
+  "version": "1.0.0",
+  "description": "CI/CD Pipeline Node.js App",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Hitesh",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
